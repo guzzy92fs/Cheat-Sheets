@@ -1,0 +1,118 @@
+=TEXT(A1,"[$-409]mmmm, yyyy")
+Note that the bracketed code is within the format string, and the code itself is preceded by a dollar sign and a dash. The code is either three or four hexadecimal digits. (Actually, all LCIDs can be expressed in four hexadecimal digits, but if the leading digit is a zero, you don't need to include it.) The example, above, shows how to express results in English, but you can pick any of a wide range of countries:
+
+Code	 	Language
+0436	 	Afrikaans
+041C	 	Albanian
+045E	 	Amharic
+0401	 	Arabic
+042B	 	Armenian
+044D	 	Assamese
+082C	 	Azeri (Cyrillic)
+042C	 	Azeri (Latin)
+042D	 	Basque
+0423	 	Belarusian
+0445	 	Bengali
+0402	 	Bulgarian
+0403	 	Catalan
+045C	 	Cherokee
+0804	 	Chinese (Simplified)
+0404	 	Chinese (Traditional)
+041A	 	Croatian
+0405	 	Czech
+0406	 	Danish
+0465	 	Dhivehi
+0413	 	Dutch
+0466	 	Edo
+0C09	 	English (Australian)
+1009	 	English (Canadian)
+0809	 	English (U.K.)
+0409	 	English (U.S.)
+0425	 	Estonian
+0438	 	Faeroese
+0464	 	Filipino
+040B	 	Finnish
+040C	 	French
+0C0C	 	French (Canadian)
+0462	 	Frisian
+0467	 	Fulfulde
+0456	 	Galician
+0437	 	Georgian
+0407	 	German
+0C07	 	German (Austrian)
+0807	 	German (Swiss)
+0408	 	Greek
+0447	 	Gujarati
+0468	 	Hausa
+0475	 	Hawaiian
+040D	 	Hebrew
+0439	 	Hindi
+040E	 	Hungarian
+0469	 	Ibibio
+040F	 	Icelandic
+0470	 	Igbo
+0421	 	Indonesian
+045D	 	Inuktitut
+0410	 	Italian
+0411	 	Japanese
+044B	 	Kannada
+0471	 	Kanuri
+0460	 	Kashmiri (Arabic)
+043F	 	Kazakh
+0457	 	Konkani
+0412	 	Korean
+0440	 	Kyrgyz
+0476	 	Latin
+0426	 	Latvian
+0427	 	Lithuanian
+042F	 	Macedonian FYROM
+043E	 	Malay
+044C	 	Malayalam
+043A	 	Maltese
+0458	 	Manipuri
+044E	 	Marathi
+0450	 	Mongolian
+0461	 	Nepali
+0414	 	Norwegian Bokmal
+0814	 	Norwegian Nynorsk
+0448	 	Oriya
+0472	 	Oromo
+0463	 	Pashto
+0429	 	Persian
+0415	 	Polish
+0416	 	Portuguese (Brazil)
+0816	 	Portuguese (Portugal)
+0446	 	Punjabi
+0418	 	Romanian
+0419	 	Russian
+044F	 	Sanskrit
+0C1A	 	Serbian (Cyrillic)
+081A	 	Serbian (Latin)
+0459	 	Sindhi
+045B	 	Sinhalese
+041B	 	Slovak
+0424	 	Slovenian
+0477	 	Somali
+0C0A	 	Spanish
+0441	 	Swahili
+041D	 	Swedish
+045A	 	Syriac
+0428	 	Tajik
+045F	 	Tamazight (Arabic)
+085F	 	Tamazight (Latin)
+0449	 	Tamil
+0444	 	Tatar
+044A	 	Telugu
+041E	 	Thai
+0873	 	Tigrigna (Eritrea)
+0473	 	Tigrigna (Ethiopia)
+041F	 	Turkish
+0442	 	Turkmen
+0422	 	Ukrainian
+0420	 	Urdu
+0843	 	Uzbek (Cyrillic)
+0443	 	Uzbek (Latin)
+042A	 	Vietnamese
+0478	 	Yi
+043D	 	Yiddish
+046A	 	Yoruba
