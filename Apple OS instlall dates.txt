@@ -1,5 +1,7 @@
 Various Versions of macOS/OSX will fail on install for various reasons. You can fix them by disconnecting from your wifi or network or resetting your NVRAM. Booting from your USB stick, opening terminal and doing: date ########## where the # nubers are below. Format is: MMDDhhmmYY
 
+
+
 10.16 - 0.5 Leopard   - date 0101010121 <- Currently not needed
 10.15 - Catalina      - date 0101010120 <- Currently not needed
 10.14 - Mojave        - date 0101010119 <- Currently not needed
